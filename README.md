@@ -1,5 +1,5 @@
 # YOLOv11-Based Employee Activity Classifier
-
+![GIF](assets/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 A Streamlit web application using a custom-trained YOLOv11 model (`best_path.pt`) to classify employee states as **"working"** or **"not working"** from uploaded images and videos. This project leverages computer vision to support real-time monitoring of workplace activity and well-being.
 
 ## 📌 Project Objective
@@ -42,9 +42,10 @@ This project is licensed under the MIT License.
 **Author:** Jann Moises Nyll B. De los Reyes
 **Contact:** \[[qjmnbdelosreyes@tip.edu.ph](qjmnbdelosreyes@tip.edu.ph)]
 
+
 ```
 
 ---
 
-Let me know if you'd like to include a demo GIF or deploy it on Streamlit Cloud and link it here.
+deploy it on Streamlit Cloud and link it here.
 ```
