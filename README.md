@@ -16,10 +16,14 @@ Maintaining employee satisfaction and productivity is essential to organizationa
 ## 📁 File Structure
 
 ```
-your\_project/
-├── app.py              # Streamlit app
-├── best\_path.pt        # Trained YOLOv11 model
-└── README.md           # Project documentation
+main/
+├── assets/              # Image and video assets for demo or UI
+├── notebooks/           # Jupyter notebooks (e.g., training, evaluation)
+├── .gitattributes       # Git LFS configuration
+├── README.md            # Project documentation
+├── best.pt              # Trained YOLOv11 model (via Git LFS)
+├── main_app.py          # Streamlit web application
+├── requirements.txt     # Python dependencies
 
 ````
 
@@ -28,6 +32,8 @@ your\_project/
 * Upload an image or video file via the Streamlit interface.
 * The model will process the file and display predictions.
 * Results are visualized with annotated bounding boxes and labels.
+
+### Try it here.[FinalProjectDeployment.](https://cpe313-finalproject-by-popenyll.streamlit.app/)
 
 ## 🧠 Model
 
@@ -43,9 +49,7 @@ This project is licensed under the MIT License.
 **Contact:** \[[qjmnbdelosreyes@tip.edu.ph](qjmnbdelosreyes@tip.edu.ph)]
 
 
-```
 
 ---
 
-deploy it on Streamlit Cloud and link it here.
-```
+
