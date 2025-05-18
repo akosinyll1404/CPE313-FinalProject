@@ -4,7 +4,7 @@ A Streamlit web application using a custom-trained YOLOv11 model (`best_path.pt`
 
 ## 📌 Project Objective
 
-Maintaining employee satisfaction and productivity is essential to organizational success. Traditional monitoring methods often lack real-time responsiveness. This system introduces an AI-powered approach to detect anomalies in employee behavior, enabling proactive support and creating a more responsive and employee-centric work environment.
+Maintaining employee satisfaction and productivity is essential to organizational success. Traditional monitoring methods often lack real-time responsiveness. This system introduces an Computer vision approach to detect anomalies in employee behavior, enabling proactive support and creating a more responsive and employee-centric work environment.
 
 ## 🚀 Features
 
@@ -37,7 +37,7 @@ main/
 
 ## 🧠 Model
 
-The model is a custom YOLOv11 object detector trained to distinguish between working and non-working states based on employee posture, gestures, and facial cues.
+The model is a custom YOLOv11 object detector trained to distinguish between working, idle and non-working states based on employee posture, gestures, and facial cues.
 
 ## 🛡️ License
 
