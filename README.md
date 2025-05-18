@@ -1,8 +1,3 @@
-Here’s a complete and professional `README.md` file tailored to your project:
-
----
-
-```markdown
 # YOLOv11-Based Employee Activity Classifier
 
 A Streamlit web application using a custom-trained YOLOv11 model (`best_path.pt`) to classify employee states as **"working"** or **"not working"** from uploaded images and videos. This project leverages computer vision to support real-time monitoring of workplace activity and well-being.
@@ -21,39 +16,12 @@ Maintaining employee satisfaction and productivity is essential to organizationa
 ## 📁 File Structure
 
 ```
-
 your\_project/
 ├── app.py              # Streamlit app
 ├── best\_path.pt        # Trained YOLOv11 model
 └── README.md           # Project documentation
 
 ````
-
-## 🛠️ Installation
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/employee-activity-classifier.git
-   cd employee-activity-classifier
-````
-
-2. **Install dependencies**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-   Or manually install:
-
-   ```bash
-   pip install streamlit torch torchvision opencv-python pillow
-   ```
-
-3. **Run the application**
-
-   ```bash
-   streamlit run app.py
-   ```
 
 ## 📷 Usage
 
@@ -72,7 +40,7 @@ This project is licensed under the MIT License.
 ---
 
 **Author:** Jann Moises Nyll B. De los Reyes
-**Contact:** \[[your.email@example.com](mailto:your.email@example.com)]
+**Contact:** \[[qjmnbdelosreyes@tip.edu.ph](qjmnbdelosreyes@tip.edu.ph)]
 
 ```
 
