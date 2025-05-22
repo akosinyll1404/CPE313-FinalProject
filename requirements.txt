@@ -1,4 +1,6 @@
-streamlit
-ultralytics
-opencv-python-headless
-Pillow
+streamlit>=1.32
+ultralytics>=8.1.0
+opencv-python>=4.8.0
+Pillow>=9.5.0
+tqdm>=4.66.0
+imageio-ffmpeg>=0.4.8
